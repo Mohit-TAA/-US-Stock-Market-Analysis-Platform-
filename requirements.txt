@@ -1,0 +1,29 @@
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.21.0
+yfinance>=0.2.18
+plotly>=5.13.0
+scikit-learn>=1.2.0
+matplotlib>=3.5.0
+statsmodels>=0.13.0
+ta>=0.10.0
+openpyxl>=3.0.0
+xlsxwriter>=3.0.0
+joblib>=1.2.0
+requests>=2.28.0
+
+# AI/ML enhancements
+openai>=1.0.0
+anthropic>=0.7.0
+tensorflow>=2.13.0
+torch>=2.0.0
+
+# SaaS infrastructure
+stripe>=6.0.0
+pyjwt>=2.8.0
+sendgrid>=6.10.0
+python-dotenv>=1.0.0
+
+# Additional APIs
+newsapi-python>=0.2.7
+finnhub-python>=2.4.0

@@ -1,0 +1,102 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment Variables
+.env
+.env.local
+.env.production
+
+# Data & Cache
+data/
+*.db
+*.sqlite
+*.sqlite3
+cache/
+*.cache
+
+# Logs
+logs/
+*.log
+
+# Reports & Exports
+exports/
+reports/
+*.pdf
+*.csv
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# API Keys & Secrets
+secrets.yaml
+credentials.json
+*.key
+*.pem
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ML Models
+models/*.pkl
+models/*.h5
+models/*.pt
+*.joblib
+
+# Temporary Files
+*.tmp
+*.bak
+*.backup
+temp/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Docker
+docker-compose.override.yml
+
+# SSL Certificates
+*.crt
+*.key
+ssl/
+
+# Backups
+backups/
+*.sql
