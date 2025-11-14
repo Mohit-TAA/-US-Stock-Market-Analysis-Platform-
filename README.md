@@ -10,6 +10,8 @@
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yourusername-yourappname.streamlit.app/)
 
+> **🆕 NEW:** Check out the [AI-Enhanced SaaS Version](README_SAAS.md) with full authentication, subscription management, and advanced AI features!
+
 </div>
 
 ## 🎯 Instant Access
